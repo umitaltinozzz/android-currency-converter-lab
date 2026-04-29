@@ -1,36 +1,36 @@
 # Android Currency Converter Lab
 
-![Status](https://img.shields.io/badge/status-portfolio%20archive-blue)
-![Project](https://img.shields.io/badge/type-coursework%20project-informational)
-![Stack](https://img.shields.io/badge/stack-Android%20%7C%20Kotlin%20%7C%20Gradle-333333)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-Android currency converter coursework project focused on form input, conversion logic, and simple mobile UI flow.
+A native Android currency converter project. The application focuses on form input, simple conversion logic, result display, and building a clean small-screen mobile flow.
 
-## Project Status
+## What It Does
 
-Completed Android coursework project.
-
-## Features
-
-- Currency conversion interface
-- Input and result handling
-- Native Android resource structure
-- Gradle-based Android setup
+- Accepts currency input from the user
+- Converts values through app-side calculation logic
+- Displays the converted result in a simple Android interface
+- Demonstrates a compact Android project using Gradle and XML resources
 
 ## Tech Stack
 
-Android, Kotlin, Gradle
+- Android
+- Kotlin / Java project structure
+- XML layouts
+- Gradle
 
-## Local Setup
+## Running Locally
 
-Open in Android Studio and sync Gradle. Add any local SDK settings through Android Studio.
+1. Open the project in Android Studio.
+2. Sync Gradle.
+3. Run the app on an emulator or Android device.
 
 ## Repository Notes
 
-- Demo video and generated build artifacts are excluded.
-- No APK binaries are committed.
+Demo videos, generated build folders, APK outputs, and local machine configuration are excluded.
 
 ## License
 
-Released under the MIT License.
+MIT License.
